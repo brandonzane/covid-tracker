@@ -5,3 +5,5 @@ The Covid-Tracker app was built with react and material ui dependencies. It is a
 - 💬 Ask me about anything 
 - 📫 How to reach me: bmushori@gmail.com
 - 📫 My Portfolio site https://brandonzane.com
+
+![](covid-tracker.png)
