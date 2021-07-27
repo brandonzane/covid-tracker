@@ -1,17 +1,27 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&family=Poppins:wght@300;400;600;700&display=swap');
 
 * {
   margin: 0;
 }
 
 body {
-  background-color: #f5f6fa;
+  font-family: "Open Sans", sans-serif;
+  background: url(./img/whirl-earth.jpg);
+  background-position: center center;
 }
+
+
+h1 {
+  font-family: "Poppins", sans-serif;
+  color: rgb(13, 57, 124);
+}
+
 
 .app {
   display: flex;
   justify-content: space-evenly;
   padding: 20px;
+  color: #fff;
 }
 
 .app__header {
